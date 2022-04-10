@@ -4,4 +4,7 @@ body {
   margin: auto;
   max-width: 38rem;
   padding: 2rem;
+  text-align: center;
+  color: cyan;
+  background: #00224b;
 }
